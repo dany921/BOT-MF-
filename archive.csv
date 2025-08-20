@@ -1,0 +1,13 @@
+date,exercise,title,result_short,solution_steps,notes,version
+2025-10-17,1,"Rendita posticipata","€ 12.345,67","1) Identifico C, i, n.
+2) Uso R = C * ((1+i)^n - 1)/i.
+3) Sostituisco i valori.
+4) Arrotondo a 2 decimali.","Anno commerciale 360; tassi annui",v1
+2025-10-17,2,"Ammortamento francese","8,41%","1) Ricavo il TAN effettivo.
+2) Imposto rata costante.
+3) Calcolo quota interessi/capitale.
+4) Ottengo il tasso richiesto.","Rata costante; TAN 5.2%",v1
+2025-07-12,1,"Bond price","€ 98,72","1) Dati: cedola, yield, scadenza.
+2) Sconto cedole + rimborso.
+3) Somma valori attuali.
+4) Arrotondo.","Cedola annuale; yield semplice",v1
